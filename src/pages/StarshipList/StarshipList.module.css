@@ -1,0 +1,17 @@
+.FlexContainer {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.Starship {
+    width: 150px;
+    background-color: #4b5263;
+    border-radius: 10%;
+    margin: 10px;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    
+}

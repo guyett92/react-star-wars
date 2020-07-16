@@ -12,3 +12,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+a, a:visited, a:hover {
+  text-decoration: none;
+  color: #FFF;
+}
+
